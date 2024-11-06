@@ -17,7 +17,7 @@ Este repositorio es una aplicación sencilla en Node.js que permite enviar y ree
    git clone https://github.com/LuisRGN/SendMailResend.git
 2. **Navega al directorio del proyecto:**
    ```bash
-   cd PruebaTecnica
+   cd SendMailResend
 3. **Instala las dependencias:**
    ```bash
    npm install
